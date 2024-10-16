@@ -29,12 +29,17 @@ Enviar comprovante para a Mara via Whatsapp:
 	+5566996245118
 
 
+## Pix CERRADOFLOW
+ 
+Pix CNPJ:
+
+	33.508.036/0001-30
 
 ## Pix Centro-Oeste Rafting
 
 Pix CNPJ:
 
-	04431047000160
+	04.431.047000160
 
 Em nome de F.A. Barleta e Cia Ltda.
 
