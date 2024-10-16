@@ -1,6 +1,6 @@
 # Pix camping Chácara Xapiri 
 
-(R$35/canoísta/noite)
+-> R$35/canoísta/noite
 
 Telefone:
 
@@ -14,7 +14,7 @@ Pix solidário é sempre mt bem vindo =D
 
 # Pix do Balneário Rocha 
 
-(R$5/pessoa/saída)
+-> R$5/canoísta/saída
 
 Chave aleatória:
  
