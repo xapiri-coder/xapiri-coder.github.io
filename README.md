@@ -1,8 +1,10 @@
-# Pix camping Chácara Xapiri 
+# Kayak Jaciara
 
--> R$35/canoísta/noite
+## Pix Chácara Xapiri 
 
-Telefone:
+**-> R$35/canoísta/noite**
+
+Pix telefone:
 
 	66999105145
 
@@ -12,11 +14,11 @@ Pix solidário é sempre mt bem vindo =D
 
 
 
-# Pix do Balneário Rocha 
+## Pix Balneário Rocha 
 
--> R$5/canoísta/saída
+**-> R$5/canoísta/saída**
 
-Chave aleatória:
+Pix chave aleatória:
  
 	dd305d4b-295b-4a29-b98e-a1f5914ae5be
 	
@@ -28,9 +30,9 @@ Enviar comprovante para a Mara via Whatsapp:
 
 
 
-# Pix Centro-Oeste Rafting
+## Pix Centro-Oeste Rafting
 
-CNPJ:
+Pix CNPJ:
 
 	04431047000160
 
